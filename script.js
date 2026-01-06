@@ -582,7 +582,295 @@ document.addEventListener('DOMContentLoaded', () => {
     ]
 },
         //Module 03
-
+'M03': {
+    title: 'MEO2-M03 : Connaissance des sociétés',
+    questions: [
+        {
+            section: "Chapitre 1 : Éléments constitutifs d'une société",
+            question: "Selon Laplantine, qui est l'auteur de la citation : « L'homme n'a jamais cessé de s'interroger sur lui-même » ?",
+            options: { a: "Fernand Tönnies", b: "Émile Durkheim", c: "Laplantine", d: "Marcel Mauss" },
+            reponse: "c",
+            explication: "Le cours cite explicitement Laplantine (2001) comme étant l'auteur de cette phrase.",
+            page: "4"
+        },
+        {
+            question: "Quel ouvrage, considéré comme un classique de l'anthropologie, est attribué à Marcel Mauss ?",
+            options: { a: "De la division du travail social", b: "Essai sur le don", c: "Communauté et société", d: "Les deux sœurs et leur mère" },
+            reponse: "b",
+            explication: "Le document mentionne que l'approche anthropologique classique a permis d'écrire des ouvrages comme l'Essai sur le don, un classique de la discipline.",
+            page: "4"
+        },
+        {
+            question: "Quel sociologue allemand a introduit le mot 'société' d'un point de vue analytique en 1887 avec son ouvrage 'Gemeinschaft und Gesellschaft' ?",
+            options: { a: "Karl Marx", b: "Max Weber", c: "Émile Durkheim", d: "Fernand Tönnies" },
+            reponse: "d",
+            explication: "Le cours précise que 'le mot société a été introduit par le sociologue allemand Fernand Tönnies en 1887'.",
+            page: "4"
+        },
+        {
+            question: "Qui est l'auteur de l'ouvrage 'De la division du travail social' ?",
+            options: { a: "Pierre Bourdieu", b: "Fernand Tönnies", c: "Émile Durkheim", d: "A.R Radcliffe Brown" },
+            reponse: "c",
+            explication: "Le cours attribue l'ouvrage 'De la division du travail social' à Durkheim (2007).",
+            page: "4"
+        },
+        {
+            question: "Selon Géraud et al. (2004), quel est le rôle fondamental de la parenté dans la société ?",
+            options: { a: "Elle est purement biologique et sans impact social", b: "Elle ne concerne que la transmission des noms de famille", c: "Elle détermine des droits, statuts, régit la transmission de biens et reproduit l'ordre social", d: "Elle vise uniquement à limiter les conflits familiaux" },
+            reponse: "c",
+            explication: "Le cours cite Géraud et al. : la parenté 'détermine des droits, des statuts, régit la transmission de biens, assure une partie de la socialisation et contribue puissamment à la reproduction de l'ordre social.'",
+            page: "5"
+        },
+        {
+            question: "Comment est définie la filiation unilinéaire ?",
+            options: { a: "L'appartenance est déterminée en référence à un seul parent (père ou mère)", b: "La transmission combine les droits du père et de la mère", c: "Les principes de descendance sont indistincts du côté paternel et maternel", d: "L'appartenance est choisie par l'individu à sa majorité" },
+            reponse: "a",
+            explication: "Les filiations sont dites unilinéaires lorsque l'appartenance est déterminée en référence à un seul parent, père (patrilinéaire) ou mère (matrilinéaire).",
+            page: "5"
+        },
+        {
+            question: "À quoi renvoie la filiation bilinéaire ?",
+            options: { a: "L'appartenance est déterminée par le lignage maternel uniquement", b: "L'appartenance est déterminée par le lignage paternel uniquement", c: "La transmission combine en parallèle des droits provenant du père et de la mère", d: "Les principes de descendance sont flous et non définis" },
+            reponse: "c",
+            explication: "La filiation est bilinéaire lorsque la transmission combine en parallèle des droits provenant du père et de la mère.",
+            page: "5"
+        },
+        {
+            question: "Qu'est-ce que la filiation cognatique (ou indifférenciée) ?",
+            options: { a: "Une référence unique à la lignée du père", b: "Une référence unique à la lignée de la mère", c: "Une combinaison des droits des deux parents", d: "Les principes de descendance s'affirment de manière indistincte du côté paternel et maternel" },
+            reponse: "d",
+            explication: "La filiation est cognatique ou indifférenciée lorsque les principes de descendance s'affirment de manière indistincte du côté paternel et maternel.",
+            page: "5"
+        },
+        {
+            question: "Selon Claude Lévi-Strauss, quel est l'acte fondateur des échanges matrimoniaux qui permet de passer de la Nature à la Culture ?",
+            options: { a: "Le mariage arrangé", b: "La dot", c: "La prohibition de l'inceste", d: "Le divorce" },
+            reponse: "c",
+            explication: "Pour Claude Lévi-Strauss, la prohibition de l'inceste est considérée comme un acte fondateur des échanges matrimoniaux, permettant de passer de la Nature à la Culture.",
+            page: "5"
+        },
+        {
+            question: "Qui est l'auteure de l'ouvrage 'Les deux sœurs et leur mère', qui propose de dépasser l'interprétation de l'inceste de Lévi-Strauss ?",
+            options: { a: "Simone de Beauvoir", b: "Françoise Héritier", c: "Margaret Mead", d: "Sylvie Brunnel" },
+            reponse: "b",
+            explication: "Le cours indique que 'Françoise Héritier dans Les deux sœurs et leur mère va proposer de dépasser l'interprétation faite de l'inceste par Lévi-Strauss'.",
+            page: "6"
+        },
+        {
+            question: "Dans la typologie de Service (1962), quelle structure politique correspond aux sociétés de chasseurs-cueilleurs et est fondée sur la parenté ?",
+            options: { a: "La tribu", b: "La chefferie", c: "L'État", d: "La bande" },
+            reponse: "d",
+            explication: "La bande a une structure politique qui correspond aux sociétés de chasseurs-cueilleurs. Elle est fondée sur la parenté.",
+            page: "6"
+        },
+        {
+            question: "Quelle est la principale différence entre la socialisation primaire et la socialisation secondaire selon Berger et Luckmann (1996) ?",
+            options: { a: "La primaire se fait à l'école, la secondaire en famille", b: "La primaire concerne la période de l'enfance à l'adolescence, la secondaire intervient à l'âge adulte", c: "La primaire est volontaire, la secondaire est obligatoire", d: "Il n'y a pas de différence" },
+            reponse: "b",
+            explication: "La socialisation primaire est assurée par la famille de l'enfance à l'adolescence. La socialisation secondaire intervient à l'âge adulte et se poursuit toute la vie.",
+            page: "7"
+        },
+        {
+            section: "Chapitre 2 : La dynamique de populations",
+            question: "Selon le cours, quel penseur a formulé la question démographique de manière théorique, précise et nouvelle il y a deux siècles ?",
+            options: { a: "Platon", b: "Polybe", c: "Malthus", d: "Durkheim" },
+            reponse: "c",
+            explication: "Le cours énonce : 'La question démographique n'a été formulée au niveau théorique de manière précise et nouvelle que depuis deux siècles avec Malthus.'",
+            page: "9"
+        },
+        {
+            question: "Qu'est-ce qui est à l'origine de l'« explosion démographique » dans les pays du Sud après la Seconde Guerre mondiale ?",
+            options: { a: "Une forte hausse de la natalité et une forte hausse de la mortalité", b: "Une forte baisse de la mortalité et le maintien d'une natalité élevée", c: "Une forte baisse de la natalité et une forte baisse de la mortalité", d: "Une forte hausse de la natalité et le maintien d'une mortalité élevée" },
+            reponse: "b",
+            explication: "C'est le décalage entre une mortalité en baisse (grâce aux vaccins, hygiène...) et une natalité qui reste élevée qui a causé l'« explosion démographique ».",
+            page: "9"
+        },
+        {
+            question: "À partir de quelle période une antenne de l'Office français de la Migration a-t-elle été installée en Tunisie pour organiser la migration officielle ?",
+            options: { a: "Au milieu des années 1920", b: "Au milieu des années 1960", c: "Au milieu des années 1990", d: "Au milieu des années 2000" },
+            reponse: "b",
+            explication: "Le besoin de main d'œuvre en Europe a conduit à l'organisation de la migration. 'C'est ainsi qu'au milieu des années 1960, une antenne de l'Office français de la Migration a par exemple été installée en Tunisie'.",
+            page: "10"
+        },
+        {
+            question: "Quel pays a adopté une politique de l'enfant unique à partir des années 1980 ?",
+            options: { a: "Le Japon", b: "La Tunisie", c: "L'Inde", d: "La Chine" },
+            reponse: "d",
+            explication: "Le cours indique : 'Avec les années 1980, même la Chine a adopté la planification des naissances en allant même un peu plus loin en imposant un seul enfant par famille'.",
+            page: "10"
+        },
+        {
+            question: "Quel pays a adopté dès 1964 un programme de planification familiale ?",
+            options: { a: "La Tunisie", b: "L'Algérie", c: "Le Maroc", d: "L'Égypte" },
+            reponse: "a",
+            explication: "Cette situation a été aussi à l'origine de... l'adoption de véritables programmes de planification familiale dans de nombreux pays comme la Tunisie dès 1964.",
+            page: "10"
+        },
+        {
+            question: "Quel pays détient actuellement le record mondial de l'espérance de vie la plus longue ?",
+            options: { a: "La Suède", b: "Le Canada", c: "Le Japon", d: "L'Australie" },
+            reponse: "c",
+            explication: "C'est ainsi que le Japon détient actuellement le record mondial de l'espérance de vie la plus longue.",
+            page: "11"
+        },
+        {
+            question: "Quel événement a été l'occasion pour l'Europe de commencer à adopter des mesures pour arrêter la migration au début des années 1970 ?",
+            options: { a: "La chute du mur de Berlin", b: "La fin de la guerre du Vietnam", c: "Le premier choc pétrolier", d: "La création de l'Union Européenne" },
+            reponse: "c",
+            explication: "Le premier choc pétrolier a été l'occasion de concrétiser ces craintes et dès 1972, l'Europe... adopta des mesures draconiennes pour arrêter la migration.",
+            page: "11"
+        },
+        {
+            question: "Selon le cours, quel est le grand défi auquel sont confrontés les pays du Sud concernant leur population fortement jeune ?",
+            options: { a: "Le vieillissement de la population", b: "La baisse de la natalité", c: "Le renforcement du capital humain", d: "La construction de maisons de retraite" },
+            reponse: "c",
+            explication: "La conclusion du chapitre II indique : 'Le grand défi auxquels se trouvent confrontés les pays du Sud demeure le renforcement du capital humain.'",
+            page: "12"
+        },
+        {
+            section: "Chapitre 3 : Les mutations dans un contexte de globalisation",
+            question: "Quel auteur, tenant de l'anthropologie dynamique, va montrer qu'aucune société n'est statique ?",
+            options: { a: "Claude Lévi-Strauss", b: "Georges Balandier", c: "Pierre Bourdieu", d: "François Laplantine" },
+            reponse: "b",
+            explication: "Tenant de l'anthropologie dynamique, Balandier va montrer qu'aucune société n'est statique.",
+            page: "13"
+        },
+        {
+            question: "Selon le cours, quel événement en 1990 a marqué le basculement progressif vers un monde dominé par le système capitaliste ?",
+            options: { a: "La création de l'OMC", b: "La chute du mur de Berlin", c: "La signature du traité de Maastricht", d: "La première guerre du Golfe" },
+            reponse: "b",
+            explication: "Depuis la chute du mur de Berlin en 1990, l'humanité a basculé progressivement dans un monde dominé par le système capitaliste.",
+            page: "13"
+        },
+        {
+            question: "Quel discours, prononcé en 1990, a marqué le début de l'avènement de la démocratie dans de nombreux pays africains ?",
+            options: { a: "Le discours de Nelson Mandela à sa libération", b: "Le discours de François Mitterrand à La Baule", c: "Le discours de George H.W. Bush sur le Nouvel Ordre Mondial", d: "Le discours de Mikhaïl Gorbatchev sur la Perestroïka" },
+            reponse: "b",
+            explication: "Depuis le discours de François Mitterrand en 1990 sur la nécessité de la mise en place de la démocratie dans les pays africains, de nombreuses mutations ont affecté les pays du Sud.",
+            page: "14"
+        },
+        {
+            question: "Quelle condition a été imposée par les institutions internationales (Banque Mondiale, FMI) pour l'accès aux financements internationaux ?",
+            options: { a: "Le système de parti unique", b: "La 'bonne gouvernance'", c: "L'augmentation des dépenses militaires", d: "La fermeture des frontières" },
+            reponse: "b",
+            explication: "Imposée par les institutions de la coopération internationale..., la « bonne gouvernance » est devenue une condition préalable aux financements internationaux.",
+            page: "14"
+        },
+        {
+            question: "L'émergence des sociétés civiles en Afrique est un impact visible de quel processus ?",
+            options: { a: "De la colonisation", b: "De la guerre froide", c: "De l'ouverture démocratique", d: "De la crise de la dette" },
+            reponse: "c",
+            explication: "L'émergence des sociétés civiles plus ou moins organisés... constitue également un impact visible de l'ouverture démocratique dans les pays d'Afrique.",
+            page: "14"
+        },
+        {
+            question: "Quel pays ou région est cité comme un exemple où l'on pourrait voir apparaître des 'réfugiés climatiques' ?",
+            options: { a: "La Suisse", b: "La Sibérie", c: "Le Bangladesh", d: "Le Canada" },
+            reponse: "c",
+            explication: "Le réchauffement... met en péril de nombreux archipels et terres basses, comme les Pays-Bas ou le Bangladesh. Ce siècle sera peut-être le premier à voir l'apparition de « refugiés climatiques ».",
+            page: "15"
+        },
+        {
+            question: "Quels trois pays émergents sont cités comme représentant à eux seuls environ 40% de la population mondiale ?",
+            options: { a: "Brésil, Russie, Afrique du Sud", b: "Mexique, Indonésie, Turquie", c: "Chine, Inde, Brésil", d: "Nigeria, Pakistan, Bangladesh" },
+            reponse: "c",
+            explication: "...le boom économique des pays émergents comme la Chine, l'Inde et le Brésil, qui représentent à eux trois environ 40% de la population mondiale.",
+            page: "15"
+        },
+        {
+            question: "Quelle est la destination migratoire privilégiée des Africains, autre que l'Europe, ces dix dernières années selon le cours ?",
+            options: { a: "L'Australie", b: "Le Japon", c: "Les Etats-Unis", d: "La Chine" },
+            reponse: "c",
+            explication: "...ces dix dernières [années] ce courant s'oriente fortement vers les Etats-Unis compte tenu du durcissement des lois migratoires en Europe.",
+            page: "14"
+        },
+        {
+            section: "Chapitre 4 : L'effet papillon du Coronavirus",
+            question: "En quelle année est apparue la maladie à coronavirus 2019, communément appelée Covid19 ?",
+            options: { a: "2018", b: "2019", c: "2020", d: "2021" },
+            reponse: "b",
+            explication: "Le nom même de la maladie, Covid-19, indique son année d'apparition. Le cours la nomme 'maladie à coronavirus 2019'.",
+            page: "17"
+        },
+        {
+            question: "Dans quel pays la maladie Covid-19 est-elle apparue initialement ?",
+            options: { a: "Italie", b: "États-Unis", c: "Brésil", d: "Chine" },
+            reponse: "d",
+            explication: "L'apparition d'une épidémie de coronavirus à Wuhan en Chine avec l'effet papillon qu'il a entraîné en est un exemple.",
+            page: "16"
+        },
+        {
+            question: "Selon Carroue (2020), la diffusion de la Covid-19 par le trafic aérien et les élites nationales est qualifiée de :",
+            options: { a: "Pandémie par le bas", b: "Pandémie rurale", c: "Pandémie par le haut", d: "Pandémie localisée" },
+            reponse: "c",
+            explication: "Il y a une diffusion de la « pandémie par le haut », tant géographiquement par le trafic aérien, que socialement par le biais des élites nationales.",
+            page: "17"
+        },
+        {
+            question: "Selon Carroue, qu'est-ce que la pandémie de Covid-19 a surtout mis en lumière ?",
+            options: { a: "La solidité du système de santé mondial", b: "La grande faiblesse des chaînes mondiales de valeur éclatées", c: "L'inutilité des technologies de l'information", d: "La fin des migrations internationales" },
+            reponse: "b",
+            explication: "CARROUE : « La pandémie a surtout mis en lumière la grande faiblesse des chaînes mondiales de valeur éclatées entre de nombreux pays. »",
+            page: "19"
+        },
+        {
+            question: "Qui est l'auteur de la théorie du chaos, illustrée par 'l'effet papillon' ?",
+            options: { a: "Ian Goldin", b: "Mary Vakaris", c: "Edward Lorenz", d: "Laurent Carroue" },
+            reponse: "c",
+            explication: "La note de bas de page 2 précise : 'Selon la théorie du chaos d'Edward Lorenz, un battement d'ailes de papillon au-dessus du Brésil peut provoquer une tornade au Texas.'",
+            page: "19"
+        },
+        {
+            question: "À quel auteur appartient la pensée : « À mesure que les réseaux [...] s'interconnectent, ils deviennent plus complexes et plus instables. » ?",
+            options: { a: "Mary Vakaridis", b: "Laurent Carroue", c: "Donald Trump", d: "Ian Goldin" },
+            reponse: "d",
+            explication: "Le cours cite la journaliste Vakaris qui elle-même cite le professeur Ian Goldin : 'À mesure que les réseaux commerciaux, financiers, cybernétiques et de voyage s'interconnectent, ils deviennent plus complexes et plus instables.'",
+            page: "19"
+        },
+        {
+            question: "Quel président américain est associé au pilotage de la crise sanitaire basé sur le slogan « America first » ?",
+            options: { a: "Barack Obama", b: "Joe Biden", c: "Donald Trump", d: "George W. Bush" },
+            reponse: "c",
+            explication: "Le cours mentionne que 'le pilotage trumpien basé sur le « America first » s'est avéré catastrophique.'",
+            page: "19"
+        },
+        {
+            question: "Selon les données du CBO pour le second trimestre 2020, quelle a été la conséquence du choc économique aux États-Unis ?",
+            options: { a: "Une chute du PNB de -5%", b: "Une chute du PNB de -10%", c: "Une chute du PNB de -20%", d: "Une chute du PNB de -40%" },
+            reponse: "d",
+            explication: "Selon les données publiées par le CBO... la richesse créée, saisie par le produit national brut, plonge de -40 %.",
+            page: "19"
+        },
+        {
+            question: "Quelle citation de Lévi-Strauss est utilisée pour conclure le cours sur la finalité de la connaissance des sociétés ?",
+            options: { a: "« L'homme n'a jamais cessé de s'interroger sur lui-même. »", b: "« Le lointain éclaire le proche, mais le proche peut aussi éclairer le lointain. »", c: "« La prohibition de l'inceste est le passage de la Nature à la Culture. »", d: "« Nous sommes tous des cannibales. »" },
+            reponse: "b",
+            explication: "La conclusion générale se termine en rappelant la citation de Lévi-Strauss : « Entre les sociétés dites complexes ou évoluées... Le lointain éclaire le proche, mais le proche peut aussi éclairer le lointain ».",
+            page: "21"
+        },
+        {
+            question: "Qu'est ce qui différencie la tribu de la chefferie ?",
+            options: { a: "La chefferie ne possède pas de pouvoir centralisé", b: "La tribu possède un pouvoir centralisé", c: "La chefferie possède un pouvoir centralisé", d: "La chefferie ne possède pas de systèmes de hiérarchies" },
+            reponse: "c",
+            explication: "La chefferie, contrairement à la tribu possède un pouvoir centralisé. Toutefois, elle diffère de l'État par l'absence d'un appareil de coercition censé détenir le monopole de la violence légitime.",
+            page: "7"
+        },
+        {
+            question: "A quelle époque la démographie comme science récente remonte ?",
+            options: { a: "Au XXe siècle", b: "Au XIXe siècle", c: "Au XVIIe siècle", d: "Au XVIe siècle" },
+            reponse: "b",
+            explication: "On peut dire que la démographie comme science récente remonte au XIXe siècle et c'est au cours du XXe siècle qu'on prend conscience de la fracture démographique entre deux mondes.",
+            page: "9"
+        },
+        {
+            question: "De quand date la première crise pétrolière ?",
+            options: { a: "1970", b: "1980", c: "1990", d: "2000" },
+            reponse: "a",
+            explication: "Ce sont les trente (années) glorieuses où la croissance économique du Nord a été suffisamment soutenues jusqu'à la première crise pétrolière du début des années 1970.",
+            page: "10"
+        }
+    ]
+},
         
         // Vous pourrez ajouter 'M05', etc. ici
      
@@ -811,6 +1099,7 @@ document.addEventListener('DOMContentLoaded', () => {
     // --- Initialisation au chargement de la page ---
     populateDropdown();
 });
+
 
 
 

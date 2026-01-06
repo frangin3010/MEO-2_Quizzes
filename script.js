@@ -1164,6 +1164,296 @@ document.addEventListener('DOMContentLoaded', () => {
         }
     ]
 },
+        //Module 05
+
+'M05': {
+    title: 'MEO-M05 : Economie du développement',
+    questions: [
+        {
+            section: "Chapitre 1 : Généralités de l'économie du développement",
+            question: "Comment est définie l'économie du développement dans l'introduction du chapitre 1 ?",
+            options: { a: "L'étude de la bourse et des marchés financiers", b: "Un ensemble de pratiques publiques et privées encourageant le développement économique", c: "La science de la gestion des entreprises multinationales", d: "L'histoire des crises économiques mondiales" },
+            reponse: "b",
+            explication: "L'économie du développement est définie comme un ensemble de pratiques publiques et privées encourageant le développement économique d'un pays ou d'une région.",
+            page: "6"
+        },
+        {
+            question: "Quelle discipline étudie le système économique au niveau agrégé à travers les grands agrégats comme le revenu ou l'investissement ?",
+            options: { a: "La microéconomie", b: "L'économie du travail", c: "La macroéconomie", d: "La sociologie économique" },
+            reponse: "c",
+            explication: "La macroéconomie est définie comme la discipline qui étudie le système économique au niveau agrégé à travers les relations entre les grands agrégats économiques.",
+            page: "6"
+        },
+        {
+            question: "Le développement est défini comme un changement qui est à la fois :",
+            options: { a: "Uniquement économique et financier", b: "Uniquement politique et social", c: "Économique, social, technologique et institutionnel", d: "Uniquement technologique et environnemental" },
+            reponse: "c",
+            explication: "Le développement est le changement économique, social, technologique et institutionnel lié à une évolution technologique et une organisation.",
+            page: "6"
+        },
+        {
+            question: "Quand l'économie du développement s'est-elle établie comme une discipline académique ?",
+            options: { a: "À la fin du XIXe siècle", b: "Pendant l'entre-deux-guerres", c: "À la fin des années 1940 et au début des années 1950", d: "Au début des années 2000" },
+            reponse: "c",
+            explication: "C'est à la fin des années 1940 et au début des années 1950 que l'économie du développement s'est établie comme une discipline académique.",
+            page: "7"
+        },
+        {
+            question: "Quel était l'objectif fondamental de l'économie du développement à ses origines ?",
+            options: { a: "Étudier la psychologie des investisseurs", b: "Être une source de conseils pour la formulation des politiques économiques de rattrapage", c: "Analyser uniquement les marchés financiers des pays riches", d: "Promouvoir la décroissance économique" },
+            reponse: "b",
+            explication: "Être une source de conseils pour la formulation des politiques économiques de rattrapage était un objectif fondamental de l'économie du développement à son origine.",
+            page: "8"
+        },
+        {
+            question: "Quel était le secteur clé pour les pionniers du développement dans la période d'après-guerre ?",
+            options: { a: "L'agriculture", b: "Les services", c: "Le tourisme", d: "L'industrie" },
+            reponse: "d",
+            explication: "Le secteur clé des pionniers du développement était l'industrie. Les politiques prônées s'évertuaient à lancer l'industrialisation des PED.",
+            page: "14"
+        },
+        {
+            question: "Dans les années 60-70, la phase de radicalisation voit le sous-développement comme la résultante de :",
+            options: { a: "Causes internes uniquement (culture, mentalité)", b: "Causes externes principalement (dépendance, échange inégal)", c: "Facteurs purement géographiques", d: "Manque de ressources naturelles" },
+            reponse: "b",
+            explication: "L'économie du développement s'est radicalisée au cours des années 60. Le sous-développement est alors vu comme la résultante principalement de causes externes (théorie de la dépendance, etc.).",
+            page: "14"
+        },
+        {
+            question: "La théorie de la dépendance, issue du marxisme, soutient que la pauvreté des pays du Sud est la conséquence de :",
+            options: { a: "Leur manque d'intégration dans l'économie mondiale", b: "Leur climat défavorable", c: "Processus historiques mis en place par les pays du Nord", d: "Leur choix de ne pas s'industrialiser" },
+            reponse: "c",
+            explication: "Elle soutient que la pauvreté, l'instabilité politique et le sous-développement des pays du Sud est la conséquence de processus historiques mis en place par les pays du Nord.",
+            page: "14"
+        },
+        {
+            question: "Quelle thèse, développée par Emmanuel en 1969, explique l'inégalité par les écarts de rémunération du facteur travail ?",
+            options: { a: "La thèse du dualisme", b: "La thèse de l'Échange inégal", c: "La thèse de la croissance équilibrée", d: "La thèse de la modernisation" },
+            reponse: "b",
+            explication: "La thèse de l'Échange inégal (1969) d'Emmanuel explique que l'échange inégal provient des écarts dans la rémunération du facteur travail entre les différentes régions du monde.",
+            page: "15"
+        },
+        {
+            question: "Qui sont les économistes du développement associés au 'micro-développement' et à la théorie de la randomisation ?",
+            options: { a: "Rostow et Nurkse", b: "Lewis et Hirschman", c: "Michael Kremer, Esther Duflo, Abhijit Banerjee", d: "Samir Amin et André Gunder Frank" },
+            reponse: "c",
+            explication: "Le cours cite notamment Michael Kremer, Esther Duflo, Ted Miguel, Abhijit Banerjee, Sendhil Mullainathan comme les économistes ayant développé ces outils.",
+            page: "16"
+        },
+        {
+            question: "Que sont les Objectifs du Millénaire pour le Développement (OMD), fixés en 2000 ?",
+            options: { a: "Un plan de libéralisation totale des marchés", b: "Un ensemble d'objectifs mesurables à atteindre d'ici 2015, comme la réduction de l'extrême pauvreté", c: "Un programme de développement industriel pour les pays de l'OCDE", d: "Une déclaration sur la protection de l'environnement uniquement" },
+            reponse: "b",
+            explication: "Les dirigeants politiques ont fixé en 2000 un ensemble d'objectifs mesurables appelés les Objectifs du millénaire pour le développement, à atteindre d'ici à 2015.",
+            page: "17"
+        },
+        {
+            question: "Parmi les 5 principes de la Déclaration de Paris sur l'Efficacité de l'Aide, lequel souligne que les pays partenaires doivent maîtriser leurs propres politiques ?",
+            options: { a: "L'harmonisation", b: "La gestion axée sur les résultats", c: "La responsabilité mutuelle", d: "L'appropriation" },
+            reponse: "d",
+            explication: "L'appropriation suppose que les pays partenaires exercent une réelle maîtrise sur leurs politiques et stratégies de développement.",
+            page: "17"
+        },
+        {
+            question: "Combien d'Objectifs de développement durable (ODD) ont été adoptés par les Nations Unies en 2015 pour l'horizon 2030 ?",
+            options: { a: "8", b: "12", c: "17", d: "25" },
+            reponse: "c",
+            explication: "Les 193 pays membres de l'ONU ont défini 17 Objectifs de développement durable (ODD).",
+            page: "18"
+        },
+        {
+            question: "Laquelle de ces affirmations correspond à la typologie d'un pays développé ?",
+            options: { a: "Un IDH généralement inférieur à 0,8", b: "Une économie principalement agraire", c: "Un IDH généralement supérieur à 0,8", d: "Une forte dépendance à l'exportation de matières premières brutes" },
+            reponse: "c",
+            explication: "Les pays développés présentent en général un IDH supérieur à 0,8.",
+            page: "19"
+        },
+        {
+            question: "Quelle est la définition du Développement Durable ?",
+            options: { a: "Une croissance économique maximale sans aucune contrainte", b: "Un développement qui répond aux besoins du présent sans compromettre la capacité des générations futures", c: "Un processus qui favorise uniquement les pays industrialisés", d: "Une conception qui vise à arrêter toute forme de croissance" },
+            reponse: "b",
+            explication: "Le développement durable est un développement qui répond aux besoins du présent sans corrompre la capacité des générations futures à répondre à leurs propres besoins.",
+            page: "21"
+        },
+        {
+            section: "Chapitre 2 : Modèle de développement",
+            question: "Quels sont les deux types de croissance distingués par les économistes ?",
+            options: { a: "Rapide et lente", b: "Interne et externe", c: "Extensive et intensive", d: "Agricole et industrielle" },
+            reponse: "c",
+            explication: "Deux types de croissance sont distingués par les économistes. La croissance extensive (augmentation des quantités de facteurs) et la croissance intensive (gains de productivité).",
+            page: "23"
+        },
+        {
+            question: "Selon Walt Whitman Rostow, combien de phases ou d'étapes de la croissance économique toutes les sociétés traversent-elles ?",
+            options: { a: "3", b: "4", c: "5", d: "7" },
+            reponse: "c",
+            explication: "Rostow affirme que l'on peut dire de toutes sociétés qu'elles passent par l'une des cinq (5) phases suivantes.",
+            page: "24"
+        },
+        {
+            question: "Dans le modèle de Rostow, quelle est la première étape de la croissance économique ?",
+            options: { a: "Le décollage ('take off')", b: "La société traditionnelle", c: "L'ère de la consommation de masse", d: "La marche vers la maturité" },
+            reponse: "b",
+            explication: "La première des cinq phases est la société traditionnelle, essentiellement agricole avec une technologie élémentaire.",
+            page: "24"
+        },
+        {
+            question: "Quelle est la caractéristique principale de l'étape du 'décollage' (take off) chez Rostow ?",
+            options: { a: "La société est essentiellement agricole et statique", b: "La société brise les obstacles à sa croissance régulière", c: "La production de services devient prédominante", d: "La croissance est stable et généralisée à tous les secteurs" },
+            reponse: "b",
+            explication: "C'est la période pendant laquelle la société finit par renverser les obstacles et les barrages qui s'opposaient à sa croissance régulière.",
+            page: "24"
+        },
+        {
+            question: "Selon Rostow, quel taux d'investissement productif (en % du revenu national) est une des conditions du décollage ?",
+            options: { a: "Il doit baisser en dessous de 2%", b: "Il doit stagner autour de 5%", c: "Il doit passer de 5% ou moins à plus de 10%", d: "Il doit atteindre 50%" },
+            reponse: "c",
+            explication: "Une des trois conditions du décollage est 'une hausse du taux de l'investissement productif qui passerait de 5 ou moins à plus de 10% du revenu national net'.",
+            page: "25"
+        },
+        {
+            question: "Qu'est-ce qu'un secteur moteur (leading sector) selon Rostow ?",
+            options: { a: "Un secteur dont la croissance est très lente", b: "Un secteur dont le taux de croissance est élevé et qui résulte de l'innovation", c: "Un secteur qui ne dépend que de l'agriculture", d: "Un secteur entièrement contrôlé par l'État" },
+            reponse: "b",
+            explication: "Les secteurs de croissance primaire (SCP) ont un taux de croissance élevé qui résulte de l'innovation ou de l'exploitation de nouvelles ressources.",
+            page: "27"
+        },
+        {
+            question: "Pourquoi les investissements d'infrastructures (routes, ports) sont-ils une condition préalable au développement ?",
+            options: { a: "Parce qu'ils sont très rentables pour les entrepreneurs individuels à court terme", b: "Parce qu'ils ont une période de création et d'amortissement longue et une forte indivisibilité", c: "Parce qu'ils ne nécessitent aucun financement de l'État", d: "Parce qu'ils concernent uniquement les pays déjà développés" },
+            reponse: "b",
+            explication: "Leurs caractéristiques (période d'amortissement longue, forte indivisibilité, rentabilité à l'échelle de la collectivité) font qu'une très large part doit être réalisée par l'Etat.",
+            page: "27"
+        },
+        {
+            question: "Une des critiques majeures de la théorie de Rostow est qu'elle propose :",
+            options: { a: "Une vision cyclique de l'histoire", b: "Une vision linéaire de l'histoire où tous les pays doivent suivre le même chemin", c: "Une approche qui valorise les traditions", d: "Une théorie qui prend en compte l'environnement international" },
+            reponse: "b",
+            explication: "La critique principale est que sa chronologie des phases successives relève d'une vision linéaire de l'histoire, où chaque société est appelée à suivre le même parcours.",
+            page: "28"
+        },
+        {
+            section: "Chapitre 3 : Principaux défis des pays en voie de développement",
+            question: "Quelle est l'une des caractéristiques générales internes des Pays en Voie de Développement (PVD) ?",
+            options: { a: "Une économie principalement industrielle et un État fort", b: "Une économie agraire, un État faible et une structure sociale très inégalitaire", c: "Une transition démographique achevée et une population vieillissante", d: "Une insertion forte et dominante dans le commerce international" },
+            reponse: "b",
+            explication: "Les PVD se caractérisent par une structure économique et sociale qui constitue un obstacle à leur développement (économie agraire, État faible, structure sociale très inégalitaire...).",
+            page: "30"
+        },
+        {
+            question: "Qu'est-ce que la transition démographique ?",
+            options: { a: "Le passage d'une population jeune à une population vieille", b: "Le passage d'un régime à forte natalité/mortalité à un régime à faible natalité/mortalité", c: "L'augmentation de l'espérance de vie uniquement", d: "La diminution de la population totale d'un pays" },
+            reponse: "b",
+            explication: "La transition démographique est le passage d'un régime démographique à forte natalité et mortalité à un régime démographique à faible natalité et mortalité.",
+            page: "31"
+        },
+        {
+            question: "Quelle est la principale cause de la 'mauvaise gouvernance' selon le cours ?",
+            options: { a: "Des institutions trop démocratiques", b: "Les intérêts personnels privilégiés, la corruption et l'incompétence administrative", c: "Un niveau d'alphabétisme trop élevé", d: "Des choix stratégiques trop prudents" },
+            reponse: "b",
+            explication: "Les symptômes de la mauvaise gouvernance incluent : Intérêts personnels privilégiés, incompétence administrative, développement de réseaux de corruption, etc.",
+            page: "33"
+        },
+        {
+            question: "Qu'est-ce que l'atrophie du système judiciaire handicape principalement ?",
+            options: { a: "La sécurité militaire du pays", b: "La sécurité juridique des investissements", c: "Les échanges culturels", d: "La recherche scientifique" },
+            reponse: "b",
+            explication: "L'état du système judiciaire est un point central. L'investissement de capitaux étrangers est fortement lié à la sécurité juridique de cet investissement.",
+            page: "34"
+        },
+        {
+            question: "Qu'est-ce que le 'BIG PUSH' (grande poussée) recommandé par certains économistes ?",
+            options: { a: "Une politique de rigueur budgétaire drastique", b: "Un effort concerté d'investissement sur plusieurs fronts pour briser le cercle vicieux de la pauvreté", c: "Une ouverture soudaine et totale au commerce international", d: "Une augmentation massive des impôts pour la population" },
+            reponse: "b",
+            explication: "Vaincre les barrières de la pauvreté requiert un effort concerté sur plusieurs fronts, et certains économistes recommandent une « grande poussée » en avant (le BIG PUSH).",
+            page: "35"
+        },
+        {
+            question: "Parmi les actions préconisées pour échapper aux pièges de la pauvreté, laquelle est citée ?",
+            options: { a: "Limiter l'éducation pour garder une main d'œuvre bon marché", b: "Se concentrer uniquement sur les grandes entreprises", c: "Investir dans le développement humain (alimentation, santé, éducation)", d: "Éviter de se doter d'infrastructures pour ne pas s'endetter" },
+            reponse: "c",
+            explication: "Le cours liste six catégories d'action, dont la première est 'Investir dans le développement humain : alimentation, santé, éducation, eau et infrastructures sanitaires'.",
+            page: "35"
+        },
+        {
+            question: "Dans le QCM d'auto-évaluation, comment est défini un pays émergent ?",
+            options: { a: "Un pays où la majorité de la population accède à tous ses besoins vitaux", b: "Un pays qui a enclenché un processus sur le plan politique, économique et social", c: "Un pays qui a enclenché un processus pour relever le niveau de vie de ses habitants", d: "Un pays avec une économie entièrement basée sur les services" },
+            reponse: "c",
+            explication: "La bonne réponse au QCM est : 'Un pays qui a enclenché un processus sur le plan économique et social pour relever le niveau de vie de ses habitants'.",
+            page: "22"
+        },
+        {
+            question: "La 'décroissance' concerne les pays qui :",
+            options: { a: "Ont toujours eu une croissance économique faible", b: "Sont en début de processus d'industrialisation", c: "Ont connu de forts taux de croissance par le passé", d: "Ont une économie purement agricole" },
+            reponse: "a",
+            explication: "Le QCM du cours indique que la décroissance concerne 'Les pays ayant connu de forts taux de croissance économique par le passé'.",
+            page: "22"
+        },
+        {
+            question: "Pour qu'il y ait développement économique, l'expérience suggère qu'il faut :",
+            options: { a: "Promouvoir le développement industriel plutôt que l'agriculture", b: "Mettre l'accent uniquement sur l'importation de produits agricoles", c: "Utiliser une stratégie équilibrée qui promeut le développement conjoint de l'agriculture et de l'industrie", d: "Se concentrer exclusivement sur l'exportation de produits manufacturés" },
+            reponse: "c",
+            explication: "La réponse correcte au QCM est 'Utiliser une stratégie équilibrée qui promeut le développement conjoint de l'agriculture et de l'industrie'.",
+            page: "22"
+        },
+        {
+            question: "À quoi sert principalement le PIB (Produit Intérieur Brut) ?",
+            options: { a: "À mesurer la croissance économique d'un pays", b: "À mesurer le nombre d'habitants", c: "À mesurer le niveau de bonheur de la population", d: "À mesurer uniquement la production agricole" },
+            reponse: "a",
+            explication: "Le PIB mesure la richesse produite sur un territoire. Sa variation, le taux de croissance du PIB, mesure la croissance économique. Le QCM interne propose 'mesurer la croissance économique d'un pays'.",
+            page: "29"
+        },
+        {
+            question: "La croissance économique est-elle synonyme de développement ?",
+            options: { a: "Oui, toujours", b: "Non, le développement est un phénomène plus large, qualitatif, qui inclut des facteurs sociaux et culturels", c: "Oui, mais uniquement dans les pays riches", d: "Non, la croissance est qualitative et le développement est quantitatif" },
+            reponse: "b",
+            explication: "La conclusion du QCM indique que la croissance (quantitative) ne doit pas être confondue avec le développement (qualitatif, incluant des facteurs sociaux et culturels). La bonne réponse au QCM est 'Faux'.",
+            page: "29"
+        },
+        {
+            question: "Quel facteur n'est PAS considéré comme un facteur de croissance économique dans le QCM interne ?",
+            options: { a: "Une augmentation de la quantité de travail et de capital", b: "Un accroissement de la productivité du travail", c: "Une augmentation de l'offre de monnaie", d: "L'innovation technologique" },
+            reponse: "c",
+            explication: "Les facteurs de croissance sont l'augmentation des facteurs de production (travail, capital) et l'amélioration de leur efficacité (productivité). Une simple augmentation de l'offre de monnaie peut créer de l'inflation sans croissance réelle.",
+            page: "29"
+        },
+        {
+            question: "Le protectionnisme consiste à :",
+            options: { a: "Interdire totalement l'entrée des produits étrangers", b: "Protéger les produits nationaux contre la concurrence des produits étrangers", c: "Permettre aux pauvres de s'approvisionner plus facilement", d: "Subventionner uniquement les exportations" },
+            reponse: "b",
+            explication: "Le QCM interne définit le protectionnisme comme le fait de 'Protéger les produits contre la concurrence des producteurs étrangers'.",
+            page: "36"
+        },
+        {
+            question: "Comment appelle-t-on une limitation de la quantité de biens qui peuvent être importés dans un pays ?",
+            options: { a: "Un droit de douane", b: "Une subvention", c: "Un quota", d: "Une taxe à la consommation" },
+            reponse: "c",
+            explication: "Un pays qui limite la quantité d'un produit (ex: acier) qui peut être importée utilise un quota. C'est un exemple de barrière non tarifaire.",
+            page: "36"
+        },
+        {
+            question: "L'expression 'droit de douane' correspond à :",
+            options: { a: "Une limitation sur les quantités importées", b: "Une taxe sur les importations", c: "Le prix d'un bien à sa sortie du territoire", d: "Une aide aux exportateurs" },
+            reponse: "b",
+            explication: "Le QCM interne définit le droit de douane comme 'Une taxe sur les importations'.",
+            page: "36"
+        },
+        {
+            question: "La 'théorie du retard culturel' est une des approches explicatives du sous-développement.",
+            options: { a: "Vrai", b: "Faux" },
+            reponse: "a",
+            explication: "L'introduction du chapitre 2 cite explicitement 'La théorie du retard culturel' comme l'une des trois grandes approches.",
+            page: "16"
+        },
+        {
+            question: "Quel est l'objectif principal de la 'nouvelle vision du développement' apparue après les années 80 ?",
+            options: { a: "Se concentrer uniquement sur la croissance du PIB", b: "Promouvoir la colonisation", c: "La réduction de la pauvreté, du chômage et des inégalités", d: "Ignorer les besoins fondamentaux de la population" },
+            reponse: "c",
+            explication: "Cette nouvelle vision, portée par Dudley Seers, met l'accent sur la nécessité de poser des questions sur l'évolution de la pauvreté, du chômage et des inégalités.",
+            page: "22"
+        }
+    ]
+},
         
         // Vous pourrez ajouter 'M05', etc. ici
      
@@ -1392,6 +1682,7 @@ document.addEventListener('DOMContentLoaded', () => {
     // --- Initialisation au chargement de la page ---
     populateDropdown();
 });
+
 
 
 

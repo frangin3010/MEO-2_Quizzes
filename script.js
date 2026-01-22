@@ -1454,6 +1454,880 @@ document.addEventListener('DOMContentLoaded', () => {
         }
     ]
 },
+
+        //Module 06
+
+        'M06': {
+    title: 'MEO-M06 : Processus Recherche Opportunités',
+    questions: [
+        {
+            section: "Chapitre 1 : Généralités sur le processus de recherche d'opportunités",
+            question: "Parmi les affirmations suivantes sur l'opportunité, laquelle est inexacte ?",
+            options: { a: "L'opportunité doit correspondre à un besoin du marché", b: "L'opportunité se trouve au cœur du processus entrepreneurial", c: "L'opportunité est un concept lié à la conception classique", d: "L'opportunité se concrétise par la satisfaction des besoins du marché" },
+            reponse: "c",
+            explication: "L'opportunité est un concept lié à la conception néoclassique de l'économie, caractérisée par l'asymétrie de l'information, et non à la conception classique.",
+            page: "5"
+        },
+        {
+            question: "L'approche objectiviste de l'opportunité considère qu'elle existe indépendamment de l'entrepreneur, comme une réalité objective à découvrir.",
+            options: { a: "Vrai", b: "Faux" },
+            reponse: "a",
+            explication: "La perspective objectiviste considère l'opportunité comme une réalité objective qui existe indépendamment de l'individu.",
+            page: "6"
+        },
+        {
+            question: "L'approche subjectiviste de l'opportunité dépend principalement de l'imagination, de la personnalité et des modes de vie de l'entrepreneur.",
+            options: { a: "Vrai", b: "Faux" },
+            reponse: "a",
+            explication: "Dans la perspective subjectiviste, l'opportunité dépend principalement de l'imagination, de la personnalité de l'entrepreneur et de ses modes de vie et de pensée.",
+            page: "6"
+        },
+        {
+            question: "Dans l'approche subjectiviste, la disponibilité des ressources est le seul élément à prendre en compte pour identifier une opportunité.",
+            options: { a: "Vrai", b: "Faux" },
+            reponse: "b",
+            explication: "L'approche subjectiviste ne se limite pas aux ressources disponibles ; la perception de l'entrepreneur y joue un rôle central.",
+            page: "6"
+        },
+        {
+            question: "Les fournisseurs constituent les principaux détecteurs des carences et des atouts des produits et des services offerts sur le marché.",
+            options: { a: "Vrai", b: "Faux" },
+            reponse: "a",
+            explication: "Le contact avec les fournisseurs peut permettre de repérer des insatisfactions et des besoins, ce qui en fait des détecteurs d'opportunités.",
+            page: "13"
+        },
+        {
+            question: "La détection des opportunités découle uniquement de l'observation de la vie économique, sociale et professionnelle.",
+            options: { a: "Vrai", b: "Faux" },
+            reponse: "b",
+            explication: "La détection des opportunités ne découle pas uniquement de ces observations ; elle résulte aussi de l'intuition, de l'observation technologique, des analyses sectorielles, etc.",
+            page: "9-10"
+        },
+        {
+            question: "Quelle approche considère l'opportunité comme une construction sociale découlant des interactions entre une personne et son environnement ?",
+            options: { a: "La perspective objectiviste", b: "La perspective subjectiviste", c: "La perspective constructiviste", d: "La perspective fataliste" },
+            reponse: "b",
+            explication: "La deuxième approche, qualifiée de perspective subjectiviste, considère l'opportunité comme une construction sociale.",
+            page: "6"
+        },
+        {
+            question: "Laquelle de ces dispositions n'est PAS citée comme favorable à la détection d'opportunités ?",
+            options: { a: "Esprit critique", b: "Ouverture d'esprit", c: "Curiosité intellectuelle", d: "Rigidité de la pensée" },
+            reponse: "d",
+            explication: "Le chercheur d'opportunité doit être doté d'un esprit critique, d'une ouverture d'esprit et d'une curiosité intellectuelle sans précédent.",
+            page: "7"
+        },
+        {
+            question: "Parmi les sources d'opportunités, laquelle est liée au suivi de l'actualité, des mesures fiscales ou de la construction d'infrastructures ?",
+            options: { a: "L'observation de la vie professionnelle", b: "L'observation de la vie quotidienne", c: "L'observation de la vie économique et sociale", d: "L'observation de la concurrence" },
+            reponse: "c",
+            explication: "Le suivi de l'actualité économique, comme l'annonce de la construction d'un centre hospitalier ou de mesures fiscales, peut constituer des occasions pour détecter de nouvelles opportunités.",
+            page: "10"
+        },
+        {
+            question: "L'exemple de l'application Uber est cité pour illustrer une opportunité émergente issue de :",
+            options: { a: "La démographie", b: "La tendance des jeunes", c: "Les technologies numériques", d: "La vie quotidienne" },
+            reponse: "c",
+            explication: "À titre d'illustration des opportunités issues des technologies numériques, le cours cite le e-commerce, le mobile money, et l'application Uber.",
+            page: "12"
+        },
+        {
+            section: "Chapitre 2 : Etapes du développement d'opportunités",
+            question: "La collecte des données est une étape indispensable dans le processus de développement d'un produit.",
+            options: { a: "Vrai", b: "Faux" },
+            reponse: "a",
+            explication: "La première étape du développement consiste à identifier un problème et à collecter les informations pour mieux cerner les besoins.",
+            page: "26"
+        },
+        {
+            question: "Parmi les affirmations suivantes sur la génération de concepts, laquelle est inexacte ?",
+            options: { a: "Elle consiste uniquement à la clarification du problème identifié", b: "Elle consiste à la clarification du problème et à la recherche de potentielles solutions", c: "Elle vise à définir le meilleur concept pour répondre aux besoins du client", d: "Elle peut s'appuyer sur des solutions internes et externes" },
+            reponse: "a",
+            explication: "La génération de concepts ne consiste pas uniquement à clarifier le problème, mais aussi à rechercher les potentielles solutions.",
+            page: "28"
+        },
+        {
+            question: "La perception d'un besoin nouveau ou insatisfait implique la recherche d'une meilleure solution pour le résoudre.",
+            options: { a: "Vrai", b: "Faux" },
+            reponse: "a",
+            explication: "La perception d'un besoin nouveau ou insatisfait implique nécessairement l'identification d'un problème et la recherche d'une meilleure solution pour le résoudre.",
+            page: "18"
+        },
+        {
+            question: "Les principaux aspects à considérer dans le processus de développement d'un produit sont uniquement les fonctions production et marketing.",
+            options: { a: "Vrai", b: "Faux" },
+            reponse: "b",
+            explication: "Le développement d'un produit implique plusieurs autres fonctions comme le design, la finance, la R&D, la logistique, etc.",
+            page: "24"
+        },
+        {
+            question: "Les potentielles solutions à un problème social identifié peuvent provenir de l'environnement externe de votre organisation.",
+            options: { a: "Vrai", b: "Faux" },
+            reponse: "a",
+            explication: "La recherche de potentielles solutions se fait tant au niveau interne qu'externe à l'organisation.",
+            page: "28"
+        },
+        {
+            question: "La première phase du processus de détection d'opportunités est :",
+            options: { a: "La création d'un concept commercial", b: "La perception des besoins du marché", c: "L'identification d'une adéquation entre besoins et ressources", d: "L'évaluation financière" },
+            reponse: "b",
+            explication: "Le processus de détection comporte trois principales étapes, dont la première est la perception des besoins du marché.",
+            page: "17"
+        },
+        {
+            question: "L'émergence de la société UberCab (devenue Uber) est née d'une frustration liée à :",
+            options: { a: "La difficulté de trouver un restaurant à Paris", b: "La difficulté de trouver un taxi à San Francisco", c: "La difficulté de trouver un taxi à Paris", d: "Le coût élevé des hôtels à Paris" },
+            reponse: "c",
+            explication: "La société est née à la suite d'une grande frustration des fondateurs de ne pas pouvoir trouver facilement un taxi dans une grande ville comme Paris.",
+            page: "19"
+        },
+        {
+            question: "Quelle est la finalité de l'étape de création du concept commercial ?",
+            options: { a: "Seulement satisfaire les besoins identifiés", b: "Aboutir à une réorientation globale de la stratégie de l'entreprise", c: "Uniquement trouver les financements", d: "Valider la perception initiale de l'idée" },
+            reponse: "b",
+            explication: "Cette étape peut aller au-delà des ressources disponibles pour la satisfaction des besoins identifiés pour aboutir à une réorientation globale de la stratégie d'ensemble de l'entreprise.",
+            page: "21"
+        },
+        {
+            question: "Les trois fonctions centrales sur lesquelles une attention particulière doit être portée pour le développement d'un produit sont :",
+            options: { a: "Finance, Juridique, Ressources Humaines", b: "Marketing, Design et Production", c: "Logistique, Achat, Vente", d: "Direction, Communication, Qualité" },
+            reponse: "b",
+            explication: "Une attention particulière doit être portée sur les trois fonctions centrales : Marketing, Design et Production.",
+            page: "25"
+        },
+        {
+            question: "L'étape du 'Prototypage et essais' a pour but de :",
+            options: { a: "Définir le prix final du produit", b: "Lancer la commercialisation à grande échelle", c: "Préparer la fabrication d'un prototype fonctionnel pour validation", d: "Former les équipes de vente" },
+            reponse: "c",
+            explication: "Cette phase correspond à la période de préparation de la fabrication d'un prototype fonctionnel et complet par l'équipe chargée de développer le produit.",
+            page: "28"
+        },
+        {
+            section: "Chapitre 3 : Typologies des innovations et des opportunités",
+            question: "On distingue l'innovation de procédé de :",
+            options: { a: "L'innovation de produit", b: "L'innovation incrémentale", c: "L'innovation radicale", d: "L'innovation d'usage" },
+            reponse: "a",
+            explication: "La typologie selon l'objet de l'innovation distingue principalement l'innovation de produit, de procédé, organisationnelle et de commercialisation. L'innovation de produit est donc distincte de celle de procédé.",
+            page: "32-33"
+        },
+        {
+            question: "Parmi les innovations suivantes, laquelle n'est pas une innovation d'usage ?",
+            options: { a: "Le rasoir jetable", b: "Les emballages biodégradables", c: "Le commerce équitable", d: "L'innovation technologique" },
+            reponse: "d",
+            explication: "L'innovation technologique est une catégorie de la typologie selon la nature, tandis que l'innovation d'usage est une autre catégorie de cette même typologie. Elles sont donc distinctes.",
+            page: "32"
+        },
+        {
+            question: "La création d'une entreprise découle-t-elle toujours d'un problème connu avec des solutions déjà identifiées ?",
+            options: { a: "Oui", b: "Non" },
+            reponse: "b",
+            explication: "Non, la création d'entreprise peut aussi naître de situations où le problème n'est pas clairement identifié ou pour lesquelles les solutions sont inconnues (transfert de technologie, inventions pures).",
+            page: "40-41"
+        },
+        {
+            question: "On distingue l'innovation incrémentale de :",
+            options: { a: "L'innovation de produit", b: "L'innovation majeure", c: "L'innovation d'adaptation", d: "L'innovation de procédé" },
+            reponse: "b",
+            explication: "La typologie selon l'intensité distingue l'innovation majeure (ou radicale) de l'innovation incrémentale (ou mineure).",
+            page: "34"
+        },
+        {
+            question: "Parmi ces affirmations, laquelle est fausse ?",
+            options: { a: "L'innovation permet une rente de monopole", b: "L'innovation conduit toujours à une invention utile", c: "L'innovation conduit à un monopole temporaire", d: "L'innovation d'adaptation consiste à dupliquer une innovation" },
+            reponse: "b",
+            explication: "Toutes les innovations ne découlent pas forcément d'une 'invention' (au sens technique) et ne sont pas toujours 'utiles' (cf. les exemples d'inventions inutiles).",
+            page: "19, 31"
+        },
+        {
+            question: "Quel est l'exemple donné pour l'innovation de produit ?",
+            options: { a: "La chaîne de montage", b: "L'ordinateur et l'automobile", c: "Le e-commerce", d: "Les services de microcrédit" },
+            reponse: "b",
+            explication: "Le cours donne comme exemples d'innovation de produit : l'ordinateur, l'automobile.",
+            page: "33"
+        },
+        {
+            question: "Le 'mobile money' est un exemple d'innovation de :",
+            options: { a: "Procédé", b: "Produit", c: "Commercialisation", d: "Organisationnelle" },
+            reponse: "c",
+            explication: "Le 'mobile money' est cité comme un exemple d'innovation de commercialisation (ou de marché).",
+            page: "34"
+        },
+        {
+            question: "Les services de microcrédit sont un exemple d'innovation de :",
+            options: { a: "Modèle d'affaires", b: "Rupture", c: "Produit", d: "Technologique" },
+            reponse: "a",
+            explication: "Les services de microcrédit sont donnés comme exemple d'une innovation de modèle d'affaires, qui réorganise la structure des revenus et des coûts.",
+            page: "34"
+        },
+        {
+            question: "Une innovation qui consiste en des perfectionnements apportés à des produits existants est dite :",
+            options: { a: "Radicale", b: "De rupture", c: "D'adaptation", d: "Incrémentale" },
+            reponse: "d",
+            explication: "L'innovation incrémentale consiste à des perfectionnements apportés aux produits ou aux procédés de production existants.",
+            page: "35"
+        },
+        {
+            question: "L'utilisation des motos en remplacement des ânes pour la traction des charrues est un exemple d'innovation :",
+            options: { a: "D'adaptation", b: "De rupture", c: "D'assemblage", d: "Sociale" },
+            reponse: "a",
+            explication: "C'est un exemple d'innovation d'adaptation, où une solution d'un secteur (transport) est adaptée à un autre usage (agriculture).",
+            page: "36"
+        },
+        {
+            question: "Un camping-car est un exemple d'innovation :",
+            options: { a: "Incrémentale", b: "D'adaptation", c: "D'assemblage", d: "De procédé" },
+            reponse: "c",
+            explication: "Le camping-car associe plusieurs offres existantes (véhicule, logement) pour en créer une nouvelle, ce qui correspond à une innovation d'assemblage.",
+            page: "36"
+        },
+        {
+            question: "Selon une enquête de CB Insight, quelle est la principale cause d'échec des startups (42% des cas) ?",
+            options: { a: "Le manque de financement", b: "Une mauvaise équipe de direction", c: "La non-concordance de leurs offres aux besoins du marché", d: "Une concurrence trop forte" },
+            reponse: "c",
+            explication: "Une enquête de CB Insight a révélé que 42% des startups qui ont échoué sont arrivées à cette situation à cause de la non concordance de leurs offres aux besoins du marché.",
+            page: "37"
+        },
+        {
+            question: "Selon l'étude de Guenrich Alshuller sur 40 000 brevets, plus de 95% des inventions sont :",
+            options: { a: "Des découvertes scientifiques pures", b: "Des améliorations ou des évolutions de produits existants", c: "La création de nouveaux concepts", d: "Des échecs commerciaux" },
+            reponse: "b",
+            explication: "L'étude révèle que plus de 95% des inventions constituent des améliorations ou des évolutions de produits existants.",
+            page: "38"
+        },
+        {
+            question: "Dans la typologie des processus d'innovation, une situation où le problème est connu mais la solution ne l'est pas correspond au :",
+            options: { a: "1er type (chemin direct)", b: "2ème type (créativité requise)", c: "3ème type (transfert de technologie)", d: "4ème type (problème et solution inconnus)" },
+            reponse: "b",
+            explication: "Le 2ème type correspond à une situation où les problèmes à résoudre sont connus tandis que les solutions ne le sont pas, ce qui nécessite une dose de créativité.",
+            page: "40"
+        },
+        {
+            question: "La télémédecine est un exemple de quel type de processus d'innovation ?",
+            options: { a: "Problème connu, solution connue", b: "Problème connu, solution inconnue", c: "Problème inconnu, solution connue (transfert de technologie)", d: "Problème inconnu, solution inconnue" },
+            reponse: "c",
+            explication: "La télémédecine est donnée comme exemple du 3ème type, où les capacités (la technologie) existent sans destination prédéfinie et où l'on cherche des problèmes à résoudre.",
+            page: "41"
+        },
+        {
+            question: "Dans la matrice 'Monde du problème / Monde de la solution', que représente la case 'Problème Connu / Solution Connue' ?",
+            options: { a: "Transfert de technologie", b: "Résolution de problème", c: "Création d'entreprise", d: "Rêveurs" },
+            reponse: "c",
+            explication: "Quand le problème et la solution sont connus, le chemin est balisé pour la création d'une entreprise afin de commercialiser le produit. Le tableau le nomme 'Création d'entreprise'.",
+            page: "42"
+        },
+        {
+            question: "Poser la question 'Quels sont les modes de vie qui pourraient affecter la clientèle ?' relève de l'identification d'opportunités au niveau de :",
+            options: { a: "La technologie", b: "La concurrence", c: "La jeunesse", d: "La démographie" },
+            reponse: "c",
+            explication: "Cette question est explicitement listée dans la section 'Au niveau de la jeunesse'.",
+            page: "43"
+        },
+        {
+            question: "Poser la question 'Quelles sont les activités dont le rythme de croissance est plus élevé que celui de l’économie ?' relève de l'analyse de :",
+            options: { a: "La clientèle", b: "La concurrence", c: "Le personnel", d: "La vie quotidienne" },
+            reponse: "b",
+            explication: "Cette question fait partie des interrogations listées dans la section 'Au niveau de la concurrence' pour identifier des opportunités.",
+            page: "44"
+        },
+        {
+            question: "Selon la correction, la génération de concepts consiste uniquement à clarifier le problème.",
+            options: { a: "Vrai", b: "Faux" },
+            reponse: "b",
+            explication: "La correction fournie dans le document type indique que cette affirmation est inexacte, car la génération de concepts inclut aussi la recherche de solutions.",
+            page: "3 (QCM Type)"
+        },
+        {
+            question: "Selon la correction, l'essai du prototype est indispensable dans un processus innovant.",
+            options: { a: "Vrai", b: "Faux" },
+            reponse: "a",
+            explication: "La correction du document indique que l'affirmation 'L'essai du prototype est indispensable' est Vraie, même si la question originale dans le type-file est formulée à la forme négative.",
+            page: "4 (QCM Type)"
+        }
+    ]
+},
+        //Module 07
+
+        'M07': {
+    title: 'MEO-M07 : Etude de faisabilité d\'opportunités',
+    questions: [
+        {
+            section: "Chapitre 1 : Généralités sur l'étude de faisabilité d'opportunité",
+            question: "Comment est également appelée l'étude d'opportunité ?",
+            options: { a: "Business Plan", b: "Analyse SWOT", c: "Business Case", d: "Analyse financière" },
+            reponse: "c",
+            explication: "L'étude d'opportunité est aussi appelée analyse d'opportunité, note d'opportunité ou encore business case.",
+            page: "6"
+        },
+        {
+            question: "Laquelle de ces questions N'EST PAS une préoccupation centrale d'une étude d'opportunité ?",
+            options: { a: "Le projet est-il réalisable avec les moyens disponibles ?", b: "Le projet est-il réalisable d'un point de vue légal ?", c: "Le projet a-t-il déjà été réalisé par un concurrent ?", d: "Le projet couvrira-t-il les exigences du consommateur ?" },
+            reponse: "c",
+            explication: "L'étude d'opportunité cherche à savoir si le projet est réalisable (moyens, légalité) et s'il répondra aux exigences des parties prenantes, pas s'il a déjà été fait ailleurs.",
+            page: "6"
+        },
+        {
+            question: "L'étude d'opportunité est une combinaison de l'étude de faisabilité et de :",
+            options: { a: "L'analyse de la concurrence", b: "L'évaluation des résultats attendus", c: "La recherche de financement", d: "La stratégie marketing" },
+            reponse: "b",
+            explication: "Elle constitue la combinaison d'une étude de faisabilité (l'opportunité est-elle réalisable ?) avec une évaluation des résultats attendus.",
+            page: "7"
+        },
+        {
+            question: "La première étape d'une étude d'opportunité pertinente est :",
+            options: { a: "L'analyse de la situation", b: "Le choix de l'option", c: "L'étude des scénarios", d: "La définition du problème à résoudre" },
+            reponse: "d",
+            explication: "La réalisation de l'étude est précédée de l'évaluation des besoins. Cette étape préliminaire vise à cerner le problème à résoudre.",
+            page: "9"
+        },
+        {
+            question: "Quelle analyse est utilisée pour évaluer la capacité de l'organisation à soutenir le projet sur les plans économique, technique et financier ?",
+            options: { a: "L'analyse des besoins", b: "L'analyse des risques", c: "L'analyse diagnostic", d: "L'analyse prévisionnelle" },
+            reponse: "c",
+            explication: "L'analyse diagnostic permet d'évaluer la capacité de l'organisation à soutenir le projet sur le plan économique, technique, financier et commercial.",
+            page: "10"
+        },
+        {
+            question: "Quel outil N'EST PAS cité pour l'analyse de la situation ?",
+            options: { a: "La matrice SWOT", b: "L'analyse PESTEL", c: "La matrice BCG", d: "Le diagramme d'Ishikawa (5M)" },
+            reponse: "c",
+            explication: "Le cours mentionne spécifiquement la matrice SWOT, l'analyse PESTEL et le diagramme d'Ishikawa ou méthode de 5 M.",
+            page: "10"
+        },
+        {
+            question: "Quels types d'indicateurs doivent être prévus pour décrire l'état souhaité à l'issue de la résolution du problème ?",
+            options: { a: "Indicateurs financiers uniquement", b: "Indicateurs qualitatifs", c: "Indicateurs SMART", d: "Indicateurs généraux" },
+            reponse: "c",
+            explication: "Cette composante doit prévoir des indicateurs SMART qui seront utilisés comme critère d'évaluation de la pertinence de la solution.",
+            page: "11"
+        },
+        {
+            question: "À l'issue du choix du scénario optimal, quel document doit être élaboré ?",
+            options: { a: "Un rapport annuel", b: "Une fiche technique", c: "Un contrat de travail", d: "Une nouvelle analyse SWOT" },
+            reponse: "b",
+            explication: "A l'issue du choix du scénario retenu, une fiche technique y relative doit être élaborée.",
+            page: "12"
+        },
+        {
+            question: "Parmi les contraintes de l'étude d'opportunités, laquelle est liée à la nécessité d'un agrément ou d'une autorisation ?",
+            options: { a: "Contraintes techniques", b: "Contraintes financières", c: "Contraintes légales et règlementaires", d: "Contraintes économiques" },
+            reponse: "c",
+            explication: "Les contraintes légales et règlementaires incluent l'obtention d'une autorisation ou d'un agrément.",
+            page: "16"
+        },
+        {
+            question: "La faisabilité économique d'un projet est principalement fonction de sa capacité à :",
+            options: { a: "Utiliser les dernières technologies", b: "Satisfaire l'ensemble des employés", c: "Respecter les délais", d: "Réaliser un retour sur investissement" },
+            reponse: "d",
+            explication: "La faisabilité économique de votre projet sera fonction principalement de sa capacité à réaliser un retour sur investissement.",
+            page: "17"
+        },
+        {
+            section: "Chapitre 2 : Processus d'évaluation des opportunités",
+            question: "Quels sont les quatre critères clés autour desquels le processus d'évaluation des opportunités est bâti ?",
+            options: { a: "Le temps, le lieu, la méthode et le personnel", b: "Les coûts, les bénéfices, la cohérence stratégique et les difficultés de mise en œuvre", c: "Le marketing, la finance, la production et les ressources humaines", d: "L'innovation, la tradition, la concurrence et le monopole" },
+            reponse: "b",
+            explication: "Le processus d'évaluation est bâti principalement autour de quatre critères clés que sont les coûts, les bénéfices, la cohérence stratégique et les difficultés de mise en œuvre.",
+            page: "28"
+        },
+        {
+            question: "Dans la grille d'analyse du rapport coûts-bénéfices, que représentent les bénéfices ?",
+            options: { a: "Le personnel et les équipements", b: "La réglementation et les matières premières", c: "Les parts de marché, la rentabilité, l'image de marque", d: "La distribution et la promotion" },
+            reponse: "c",
+            explication: "Les éléments à prendre en compte dans la constitution des bénéfices sont principalement les parts de marché, la rentabilité, l'image de marque, la satisfaction de la clientèle, etc.",
+            page: "20"
+        },
+        {
+            question: "Pour donner plus de chance de réussite à une opportunité, celle-ci doit être en concordance avec :",
+            options: { a: "La stratégie de l'entreprise concurrente", b: "La stratégie globale de l'entreprise", c: "Les tendances économiques passées", d: "Les préférences personnelles du dirigeant" },
+            reponse: "b",
+            explication: "Pour donner plus de chance de réussite à une opportunité, cette dernière doit être en concordance avec la stratégie de l'entreprise ou tendre vers son futur profil stratégique.",
+            page: "21"
+        },
+        {
+            question: "Qu'est-ce que la 'force motrice' d'une entreprise ?",
+            options: { a: "Son capital financier", b: "Son nombre d'employés", c: "L'élément catalyseur qui oriente ses choix et constitue sa principale source d'avantages concurrentiels", d: "Son ancienneté sur le marché" },
+            reponse: "c",
+            explication: "Qualifiée de force motrice, cet élément constitue la principale force d'une entreprise et la source de ses avantages concurrentiels les plus importants.",
+            page: "22"
+        },
+        {
+            question: "Une entreprise orientée 'concept de marché' va se caractériser par :",
+            options: { a: "La fourniture d'un seul type de produit", b: "Le ciblage d'une catégorie de marché et des besoins y relatifs", c: "Un gros investissement en matière d'équipement", d: "Une aptitude à inventer de nouvelles technologies" },
+            reponse: "b",
+            explication: "Le tableau 5 indique qu'une entreprise orientée 'concept de marché' se caractérise par le 'Ciblage d'une catégorie de marché et des besoins y relatifs (Ex : secteur de l'équipement des hôpitaux)'.",
+            page: "23"
+        },
+        {
+            question: "Une entreprise orientée 'technologie/savoir-faire' aura comme caractéristique principale :",
+            options: { a: "Le ciblage des personnes âgées", b: "La vente en ligne", c: "L'aptitude à inventer ou à acquérir des technologies", d: "Un gros investissement en équipement" },
+            reponse: "c",
+            explication: "Selon le tableau 5, la caractéristique est l''Aptitude à inventer ou à acquérir des technologies (Ex: Télécommunication)'.",
+            page: "23"
+        },
+        {
+            question: "De quoi dépendent les chances de réussite d'une opportunité ?",
+            options: { a: "Uniquement de son coût faible", b: "Uniquement de ses bénéfices élevés", c: "De sa cohérence avec la stratégie d'ensemble de l'entreprise", d: "De sa complexité technique" },
+            reponse: "c",
+            explication: "Les chances de réussite d'une opportunité dépendent de sa cohérence avec la stratégie d'ensemble de l'entreprise.",
+            page: "24"
+        },
+        {
+            question: "Quand est-ce qu'une faible cohérence stratégique est-elle traduite ?",
+            options: { a: "Par l'existence de similarité dans chacun des domaines de l'entreprise", b: "Par l'absence de similitude dans les domaines de l'entreprise", c: "Par une forte rentabilité", d: "Par un coût élevé" },
+            reponse: "b",
+            explication: "L'existence de similarité traduit une forte cohérence stratégique tandis que l'absence de similitude traduit une faible cohérence.",
+            page: "25"
+        },
+        {
+            question: "Le degré de difficulté de mise en œuvre d'une opportunité croît avec :",
+            options: { a: "La diminution du nombre de changements nécessaires", b: "L'augmentation du nombre de changements nécessaires", c: "Le niveau de maîtrise élevé des personnes en charge", d: "Le faible coût du projet" },
+            reponse: "b",
+            explication: "Le degré de difficulté croit avec l'augmentation du nombre de changement nécessaire à la réalisation de l'opportunité considérée.",
+            page: "25"
+        },
+        {
+            question: "Dans la grille d'analyse complète, une opportunité qualifiée d''Excellente' (case A) se traduit par :",
+            options: { a: "Un coût élevé, un bénéfice faible, une faible cohérence et une forte difficulté", b: "Un coût moyen, un bénéfice moyen, une cohérence moyenne et une difficulté moyenne", c: "Un coût réduit, un bénéfice élevé, une forte cohérence et une facilité de mise en œuvre", d: "Un coût élevé, un bénéfice élevé, une forte cohérence et une forte difficulté" },
+            reponse: "c",
+            explication: "Une opportunité dans la case A qualifiée d'excellente se traduira par un coût réduit, un niveau de bénéfice élevé, une forte cohérence stratégique et une facilité de mise en œuvre.",
+            page: "27"
+        },
+        {
+            question: "Dans la grille d'analyse complète, les opportunités dans les cases G, H, et I sont qualifiées de :",
+            options: { a: "Excellentes", b: "Probables", c: "Mitigées", d: "Risquées" },
+            reponse: "d",
+            explication: "Les opportunités des cases G, H, I sont risquées à mettre en œuvre. Elles sont caractérisées par des niveaux de bénéfices et cohérence stratégique faibles.",
+            page: "28"
+        },
+        {
+            section: "Chapitre 3 : Développement et mise en œuvre des opportunités",
+            question: "La première étape du développement d'une opportunité consiste à :",
+            options: { a: "Identifier les facteurs critiques", b: "Bâtir des scénarios du meilleur et du pire des cas", c: "Analyser le rapport risque/gain", d: "Lancer le produit" },
+            reponse: "b",
+            explication: "La première étape du développement consiste à bâtir des scénarios en prévoyant les meilleurs et les pires résultats possibles pour chaque opportunité donnée.",
+            page: "29"
+        },
+        {
+            question: "Dans l'analyse 'risque/gain', quel coefficient correspond à un risque 'désastreux' ?",
+            options: { a: "-1", b: "-3", c: "-5", d: "0" },
+            reponse: "c",
+            explication: "Le tableau de synthèse des coefficients indique que le niveau de risque 'Désastreux' correspond au coefficient -5.",
+            page: "30"
+        },
+        {
+            question: "Dans l'analyse 'risque/gain', quel coefficient correspond à un gain 'élevé' ?",
+            options: { a: "1", b: "3", c: "5", d: "2" },
+            reponse: "c",
+            explication: "Le tableau de synthèse des coefficients indique que le niveau de gain 'Elevé' correspond au coefficient 5.",
+            page: "30"
+        },
+        {
+            question: "Selon la technique d'interprétation, une opportunité avec une côte positive d'au moins +1 doit être :",
+            options: { a: "Abandonnée", b: "Mise en œuvre", c: "Réévaluée", d: "Mise en attente" },
+            reponse: "b",
+            explication: "La directive numéro 1 stipule qu'une obtention d'une côte positive d'au moins +1 correspond à une décision de 'Opportunités à mettre en œuvre'.",
+            page: "32"
+        },
+        {
+            question: "Une opportunité avec une côte entre -1 et +1 est une opportunité :",
+            options: { a: "Excellente à mettre en œuvre", b: "À abandonner car trop risquée", c: "Avec impact minimal à abandonner", d: "À mettre en œuvre prioritairement" },
+            reponse: "c",
+            explication: "La directive numéro 3 indique qu'une obtention de côte entre -1 et +1 correspond à des 'Opportunités avec impact minimal à abandonner'.",
+            page: "32"
+        },
+        {
+            question: "Qu'est-ce qu'un 'facteur critique' dans le développement d'une opportunité ?",
+            options: { a: "Un élément qui n'a aucun impact sur le projet", b: "Tout ce qui peut causer le meilleur ou le pire des scénarios", c: "Uniquement les ressources financières", d: "Le chef de projet" },
+            reponse: "b",
+            explication: "Le facteur critique est tout ce qui peut causer le meilleur ou le pire des scenarios.",
+            page: "33"
+        },
+        {
+            question: "La 'capacité à acquérir les adresses des clients cibles' est un exemple de :",
+            options: { a: "Scénario du meilleur des cas", b: "Facteur critique pour le meilleur des cas", c: "Scénario du pire des cas", d: "Facteur critique pour le pire des cas" },
+            reponse: "b",
+            explication: "C'est un exemple de facteur critique qui, s'il est maîtrisé, contribue à la réalisation du meilleur scénario (ici, la conquête de clients).",
+            page: "34"
+        },
+        {
+            question: "La 'non-accessibilité des adresses des clients cibles' est un exemple de :",
+            options: { a: "Scénario du meilleur des cas", b: "Facteur critique pour le meilleur des cas", c: "Scénario du pire des cas", d: "Facteur critique pour le pire des cas" },
+            reponse: "d",
+            explication: "C'est un exemple de facteur critique négatif qui, s'il se produit, contribue à la réalisation du pire scénario (ici, ne pas atteindre les clients).",
+            page: "34"
+        },
+        {
+            question: "Dans la liste de contrôle, la 'Disponibilité des compétences techniques' est un facteur de quel type ?",
+            options: { a: "Facteurs de délais", b: "Facteurs de stabilité", c: "Facteurs techniques", d: "Facteurs de croissance" },
+            reponse: "c",
+            explication: "Cet élément est listé sous la catégorie 'Facteurs techniques' dans le tableau de contrôle.",
+            page: "35"
+        },
+        {
+            question: "La 'Permanence du marché' est un facteur de quel type ?",
+            options: { a: "Facteurs de délais", b: "Facteurs de stabilité", c: "Facteurs techniques", d: "Facteurs de commercialisation" },
+            reponse: "b",
+            explication: "Cet élément est listé sous la catégorie 'Facteurs de stabilité'.",
+            page: "35"
+        },
+        {
+            question: "La 'Possibilité d'obtenir une famille de produits' est un facteur de quel type ?",
+            options: { a: "Facteurs de positionnement", b: "Facteurs de croissance", c: "Facteurs de commercialisation", d: "Facteurs financiers" },
+            reponse: "b",
+            explication: "Cet élément est listé sous la catégorie 'Facteurs de croissance'.",
+            page: "35"
+        },
+        {
+            question: "Le 'Rendement prévu (ROI)' est un facteur de quel type ?",
+            options: { a: "Facteurs de production", b: "Facteurs financiers", c: "Facteurs de protection", d: "Facteurs de commercialisation" },
+            reponse: "b",
+            explication: "Le 'Calcul du cash-flow' et le 'Rendement prévu (ROI)' sont listés sous la catégorie 'Facteurs financiers'.",
+            page: "36"
+        },
+        {
+            question: "La 'Possibilité d'obtention d'un brevet' est un facteur de quel type ?",
+            options: { a: "Facteurs de production", b: "Facteurs financiers", c: "Protection", d: "Facteurs de commercialisation" },
+            reponse: "c",
+            explication: "Cet élément est listé sous la catégorie 'Protection'.",
+            page: "36"
+        },
+        {
+            question: "L'étape de mise en œuvre permet de déterminer de manière objective :",
+            options: { a: "L'ampleur du risque encouru pour chaque opportunité", b: "Le meilleur scénario possible uniquement", c: "Le coût initial de l'idée", d: "La motivation de l'équipe" },
+            reponse: "a",
+            explication: "L'étape de mise en œuvre permet de déterminer de manière objective l'ampleur du risque encouru relatif à chaque opportunité et de prévoir les actions nécessaires.",
+            page: "37"
+        },
+        {
+            question: "Les actions visant à empêcher la cause d'un problème de se produire sont des actions :",
+            options: { a: "Correctives", b: "D'incitation", c: "D'exploitation", d: "Préventives" },
+            reponse: "d",
+            explication: "Contrairement aux actions préventives qui cherchent à empêcher la cause d'un problème de se produire, celles d'incitation visent à s'assurer de la réalisation de la cause de l'opportunité.",
+            page: "38"
+        },
+        {
+            question: "La distribution gratuite de publications par des éditeurs est un exemple d'action :",
+            options: { a: "Préventive", b: "D'incitation", c: "De secours", d: "Corrective" },
+            reponse: "b",
+            explication: "Celles d'incitation (exemple : distribution de publications gratuitement des éditeurs) visent à s'assurer de la réalisation effective de la cause de l'opportunité.",
+            page: "38"
+        },
+        {
+            question: "L'usage de panneaux 'défense de fumer' est un exemple de mesure :",
+            options: { a: "Préventive", b: "D'incitation", c: "De secours", d: "D'exploitation" },
+            reponse: "a",
+            explication: "Les mesures préventives (exemple : l'usage des panneaux « défense de fumer ») visent à éliminer ou atténuer les problèmes futurs.",
+            page: "38"
+        },
+        {
+            question: "Que doit contenir un plan de mise en œuvre ?",
+            options: { a: "Uniquement l'analyse des risques", b: "Uniquement le budget", c: "Les délais, les acteurs et les responsabilités", d: "Uniquement la liste des options" },
+            reponse: "c",
+            explication: "Un plan de mise en œuvre doit préciser les délais, les acteurs et les responsabilités.",
+            page: "12"
+        },
+        {
+            question: "Le livrable de l'étude de faisabilité d'opportunité aidera à :",
+            options: { a: "Remplacer l'équipe de gestion de projet", b: "Prendre une décision éclairée sur le lancement du projet", c: "Garantir un succès à 100% sans aucun risque", d: "Obtenir directement un financement bancaire" },
+            reponse: "b",
+            explication: "Le livrable obtenu contribuera à prendre une décision éclairée et de s'assurer de l'atteinte des résultats.",
+            page: "42"
+        }
+    ]
+},
+
+        //Module 08
+
+        'M08': {
+    title: 'MEO-M08 : Propriété Intellectuelle',
+    questions: [
+        {
+            section: "Chapitre 1 : Généralités sur la Propriété Intellectuelle",
+            question: "La propriété industrielle est une branche de la propriété intellectuelle.",
+            options: { a: "Vrai", b: "Faux" },
+            reponse: "a",
+            explication: "La propriété intellectuelle comporte deux branches : la propriété industrielle et la propriété littéraire et artistique. Donc, la propriété industrielle n'englobe pas la PI, elle en fait partie.",
+            page: "6"
+        },
+        {
+            question: "La propriété intellectuelle porte uniquement sur les choses matérielles.",
+            options: { a: "Vrai", b: "Faux" },
+            reponse: "b",
+            explication: "La propriété intellectuelle régit la catégorie des biens incorporels ou immatériels, qui sont des créations de l'esprit humain.",
+            page: "6"
+        },
+        {
+            question: "La propriété intellectuelle s'intéresse à la protection des choses matérielles et immatérielles.",
+            options: { a: "Vrai", b: "Faux" },
+            reponse: "b",
+            explication: "La propriété intellectuelle ne protège que les biens incorporels ou immatériels (créations de l'esprit), par opposition au droit de propriété classique qui protège les biens meubles (matériels) et immeubles.",
+            page: "6"
+        },
+        {
+            question: "Le monopole d'exploitation sur une innovation technologique est :",
+            options: { a: "Définitif et territorial", b: "Mondial et temporaire", c: "Temporaire et territorial", d: "Définitif et mondial" },
+            reponse: "c",
+            explication: "Les droits de propriété industrielle sont limités dans le temps (ex: 20 ans pour un brevet) et dans l'espace (le territoire pour lequel le titre a été délivré).",
+            page: "21"
+        },
+        {
+            question: "Les idées innovantes en tant que telles sont protégeables par le système de propriété intellectuelle.",
+            options: { a: "Vrai", b: "Faux" },
+            reponse: "b",
+            explication: "La propriété intellectuelle ne protège pas les idées en elles-mêmes, mais l'expression ou la matérialisation de ces idées (une invention, une œuvre, une marque).",
+            page: "23"
+        },
+        {
+            question: "La Convention de l'OMPI énonce une liste d'objets protégés qui inclut :",
+            options: { a: "Uniquement les inventions", b: "Uniquement les œuvres littéraires", c: "Les inventions, les œuvres littéraires, les marques, les dessins et modèles, etc.", d: "Uniquement les découvertes scientifiques" },
+            reponse: "c",
+            explication: "La Convention de l'OMPI énonce une liste large et variée d'objets protégeables, incluant les œuvres, les inventions, les dessins industriels, les marques, etc.",
+            page: "8"
+        },
+        {
+            question: "Quel traité régit le système de PI au sein des états membres de l'Organisation Africaine de la Propriété Intellectuelle ?",
+            options: { a: "La Convention de Berne", b: "L'Accord de Bangui", c: "L'Arrangement de la Haye", d: "Le Traité de coopération en matière de brevet (PCT)" },
+            reponse: "b",
+            explication: "L'Accord de Bangui régit le système de propriété intellectuelle au sein des dix-sept états membres de l'OAPI.",
+            page: "9"
+        },
+        {
+            question: "Quel organisme, créé en 1985 au Burkina Faso, est en charge de la gestion collective des droits d'auteur ?",
+            options: { a: "L'OAPI", b: "La SNL", c: "L'OMPI", d: "Le Bureau Burkinabé du Droit d'Auteur (BBDA)" },
+            reponse: "d",
+            explication: "Pour le compte du Burkina Faso, cette fonction est exclusivement assurée par le Bureau Burkinabé du Droit d'Auteur (BBDA), créé en 1985.",
+            page: "12"
+        },
+        {
+            question: "Quelle est la mission principale de l'OMPI (Organisation Mondiale de la Propriété Intellectuelle) ?",
+            options: { a: "Délivrer des brevets valables dans le monde entier", b: "Promouvoir un système international de protection intellectuelle équilibré et efficace", c: "Gérer les droits d'auteur au niveau national", d: "Sanctionner les actes de contrefaçon" },
+            reponse: "b",
+            explication: "La mission principale de l'OMPI consiste à promouvoir l'élaboration d'un système international de protection intellectuelle équilibré et efficace favorisant l'innovation.",
+            page: "15"
+        },
+        {
+            section: "Chapitre 2 : Droit de la propriété industrielle",
+            question: "Les créations à caractère technique (inventions) sont uniquement protégeables par le brevet d'invention.",
+            options: { a: "Vrai", b: "Faux" },
+            reponse: "b",
+            explication: "Les créations techniques peuvent aussi être protégées par le modèle d'utilité (ou petit brevet) ou le secret d'affaires, en plus du brevet.",
+            page: "16-18"
+        },
+        {
+            question: "La marque protège les créations esthétiques.",
+            options: { a: "Vrai", b: "Faux" },
+            reponse: "b",
+            explication: "La marque protège des signes distinctifs (noms, logos). Les créations esthétiques ou ornementales sont protégées par les dessins et modèles industriels.",
+            page: "18-19"
+        },
+        {
+            question: "L'apparence (les aspects ornementaux ou esthétiques) d'un objet est protégeable par le dessin et modèle industriel.",
+            options: { a: "Vrai", b: "Faux" },
+            reponse: "a",
+            explication: "Les dessins et modèles industriels protègent les aspects ornementaux ou esthétiques (formes, couleurs, etc.) d'un objet utilitaire.",
+            page: "18"
+        },
+        {
+            question: "Les créations peuvent faire l'objet d'une protection au niveau international.",
+            options: { a: "Vrai", b: "Faux" },
+            reponse: "a",
+            explication: "Il existe des systèmes de dépôt international comme le PCT pour les brevets, le système de Madrid pour les marques, ou le système de La Haye pour les dessins et modèles.",
+            page: "10"
+        },
+        {
+            question: "Les dépôts de demande de protection dans l'espace OAPI peuvent se faire suivant trois canaux.",
+            options: { a: "Vrai", b: "Faux" },
+            reponse: "a",
+            explication: "Dans l'espace OAPI, trois modes de dépôt existent : le dépôt direct (au siège de l'OAPI ou via la SNL), le dépôt par intermédiaire (mandataire), et le dépôt international.",
+            page: "21"
+        },
+        {
+            question: "Pour qu'une invention soit brevetable, lequel de ces critères N'EST PAS requis ?",
+            options: { a: "La nouveauté", b: "Le caractère inventif", c: "L'application industrielle", d: "Le succès commercial" },
+            reponse: "d",
+            explication: "Les trois critères de brevetabilité sont la nouveauté, le caractère inventif (non-évidence) et la possibilité d'application industrielle. Le succès commercial n'est pas une condition.",
+            page: "17"
+        },
+        {
+            question: "Le modèle d'utilité (ou petit brevet) est un titre adapté pour protéger :",
+            options: { a: "Des œuvres littéraires", b: "Des petites inventions ou des aspects fonctionnels", c: "Des marques de service", d: "Des découvertes scientifiques" },
+            reponse: "b",
+            explication: "Le modèle d'utilité est un titre conféré pour protéger les petites inventions ou les aspects fonctionnels des modèles et dessins industriels.",
+            page: "17"
+        },
+        {
+            question: "Quel titre protège les variétés de végétaux nouvelles, stables, uniformes et distinctes ?",
+            options: { a: "Le brevet", b: "La marque", c: "Le certificat d'obtention végétale (COV)", d: "Le droit d'auteur" },
+            reponse: "c",
+            explication: "Le certificat d'obtention végétale (COV) est le titre délivré pour protéger les variétés de végétaux qui sont nouvelles, stables, uniformes et distinctes.",
+            page: "18"
+        },
+        {
+            question: "La durée de protection d'un brevet d'invention dans l'espace OAPI est de :",
+            options: { a: "10 ans", b: "15 ans", c: "20 ans", d: "25 ans" },
+            reponse: "c",
+            explication: "Le tableau récapitulatif indique une durée de 20 ans pour le brevet, non renouvelable, maintenu par le paiement d'annuités.",
+            page: "21"
+        },
+        {
+            question: "La durée de protection d'une marque dans l'espace OAPI est de :",
+            options: { a: "5 ans renouvelable", b: "10 ans renouvelable indéfiniment", c: "20 ans non renouvelable", d: "7 ans renouvelable" },
+            reponse: "b",
+            explication: "Le tableau indique une durée de 10 ans pour la marque, avec un renouvellement illimité.",
+            page: "21"
+        },
+        {
+            section: "Chapitre 3 : Propriété littéraire et artistique",
+            question: "Les droits patrimoniaux visent la protection de la personnalité de l'auteur.",
+            options: { a: "Vrai", b: "Faux" },
+            reponse: "b",
+            explication: "Ce sont les droits moraux qui visent la protection de la personnalité de l'auteur. Les droits patrimoniaux visent à lui permettre de tirer un bénéfice économique de son œuvre.",
+            page: "25"
+        },
+        {
+            question: "Il n'existe pas de formalité à accomplir pour bénéficier de la protection du droit d'auteur sur son œuvre littéraire.",
+            options: { a: "Vrai", b: "Faux" },
+            reponse: "a",
+            explication: "Toute œuvre, dès lors qu'elle est créée et originale, est automatiquement protégée par le droit d'auteur, sans aucune formalité, dès sa création.",
+            page: "23"
+        },
+        {
+            question: "Le genre de l'œuvre (littéraire, artistique, etc.) fait partie des critères de protection d'une œuvre artistique.",
+            options: { a: "Vrai", b: "Faux" },
+            reponse: "b",
+            explication: "Sont exclus des critères de protection le genre de l'œuvre, la forme de l'expression, le niveau culturel ou la destination de l'œuvre.",
+            page: "24"
+        },
+        {
+            question: "Les droits voisins sont attribués uniquement aux organismes de radiodiffusion.",
+            options: { a: "Vrai", b: "Faux" },
+            reponse: "b",
+            explication: "Les droits voisins sont attribués aux artistes-interprètes, aux producteurs de phonogrammes et de vidéogrammes, et aux organismes de radiodiffusion.",
+            page: "26"
+        },
+        {
+            question: "Les producteurs de phonogrammes jouissent uniquement des droits de reproduction.",
+            options: { a: "Vrai", b: "Faux" },
+            reponse: "b",
+            explication: "Les producteurs de phonogrammes et de vidéogrammes jouissent des droits de reproduction, de distribution et de représentation.",
+            page: "27"
+        },
+        {
+            question: "Lesquels de ces droits sont des droits moraux de l'auteur ?",
+            options: { a: "Le droit de reproduction et de représentation", b: "Le droit de paternité et le droit au respect de l'œuvre", c: "Le droit de suite et le droit de communication au public", d: "Le droit de radiodiffusion" },
+            reponse: "b",
+            explication: "Les droits moraux comprennent le droit de divulgation, de paternité, à l'intégrité (respect) et de retrait.",
+            page: "25"
+        },
+        {
+            question: "Les droits patrimoniaux de l'auteur sont perpétuels.",
+            options: { a: "Vrai", b: "Faux" },
+            reponse: "b",
+            explication: "Les droits patrimoniaux sont temporaires (généralement la vie de l'auteur plus une période post-mortem, ex: 70 ans), contrairement aux droits moraux qui sont perpétuels.",
+            page: "25"
+        },
+        {
+            section: "Chapitre 4 : Mécanismes et procédures de protection",
+            question: "Les droits attachés à un brevet permettent à son titulaire de :",
+            options: { a: "Fabriquer l'invention décrite", b: "Interdire des actes comme la fabrication ou la commercialisation par des tiers", c: "Commercialiser l'invention décrite sans restriction", d: "Obtenir un monopole permanent" },
+            reponse: "b",
+            explication: "Le brevet est un droit d'interdiction. Il confère à son titulaire le droit d'empêcher les tiers d'exploiter (fabriquer, commercialiser) son invention sans son autorisation.",
+            page: "17, 28"
+        },
+        {
+            question: "J'ai conçu une forme particulière dont le but est qu'elle réalise une fonction. Pour prétendre à un monopole, j'opte pour :",
+            options: { a: "Le brevet", b: "Le Dessin & Modèle", c: "La marque", d: "Le droit d'auteur" },
+            reponse: "b",
+            explication: "Le Dessin et Modèle protège l'apparence (forme, aspect ornemental) d'un produit. Si la fonction est nouvelle et inventive, le brevet serait plus approprié, mais ici l'accent est mis sur la 'forme'.",
+            page: "18"
+        },
+        {
+            question: "Pour être attractive, ma marque peut laisser supposer une qualité que mon produit ou service n'a pas.",
+            options: { a: "Vrai", b: "Faux", c: "Peut être, mais c'est risqué" },
+            reponse: "b",
+            explication: "Non, une marque ne doit pas être trompeuse (déceptive) sur la qualité, les caractéristiques ou la provenance du produit. Un tel signe est exclu de la protection.",
+            page: "38"
+        },
+        {
+            question: "À quoi sert un brevet, entre autres ?",
+            options: { a: "À protéger les dessins et modèles industriels", b: "À protéger une invention", c: "À protéger un auteur", d: "À protéger un signe distinctif" },
+            reponse: "b",
+            explication: "Un brevet est un titre délivré par une autorité publique pour protéger une invention technique.",
+            page: "17, 28"
+        },
+        {
+            question: "Les inventions réalisées par un salarié dans l'exécution de son contrat de travail ('inventions de mission') appartiennent en principe :",
+            options: { a: "Au salarié", b: "À l'employeur", c: "Sont partagées à 50/50", d: "À l'État" },
+            reponse: "b",
+            explication: "Les inventions de mission appartiennent de facto à l'employeur, l'inventeur ayant droit à une rémunération.",
+            page: "32-33"
+        },
+        {
+            question: "Une invention est considérée comme nouvelle si elle n'a pas été rendue accessible au public avant la date de dépôt de la demande de brevet.",
+            options: { a: "Vrai", b: "Faux" },
+            reponse: "a",
+            explication: "La nouveauté est une des trois conditions de brevetabilité. Elle est détruite par toute divulgation avant la date de dépôt (sauf exception de 'période de grâce').",
+            page: "30"
+        },
+        {
+            question: "Laquelle de ces créations est considérée comme non brevetable ?",
+            options: { a: "Un nouveau procédé de fabrication chimique", b: "Une nouvelle machine-outil", c: "Une découverte scientifique ou une théorie mathématique", d: "Un nouveau médicament" },
+            reponse: "c",
+            explication: "Les découvertes, théories scientifiques et méthodes mathématiques sont explicitement exclues du champ de la brevetabilité.",
+            page: "31"
+        },
+        {
+            section: "Chapitre 5 : Contentieux de la propriété intellectuelle",
+            question: "L'utilisation d'une partie seulement de la marque complexe d'un tiers constitue-t-elle une contrefaçon ?",
+            options: { a: "Vrai", b: "Faux" },
+            reponse: "a",
+            explication: "Oui, la reproduction, même partielle, d'un signe protégé peut constituer une contrefaçon si elle engendre un risque de confusion dans l'esprit du public. C'est la contrefaçon partielle.",
+            page: "42"
+        },
+        {
+            question: "J'ai identifié un contrefacteur de ma marque. Je décide de le laisser faire et je pourrai, plus tard, l'attaquer.",
+            options: { a: "Vrai", b: "Faux", c: "Cela dépend du délai que je laisse s'écouler" },
+            reponse: "c",
+            explication: "L'action en contrefaçon est soumise à un délai de prescription. Si le titulaire de la marque tarde trop à agir, son action peut être déclarée irrecevable.",
+            page: "N/A (Principe juridique général)"
+        },
+        {
+            question: "La reproduction d'un seul élément d'une marque (ex: la virgule de Nike avec un autre nom) n'est pas une contrefaçon.",
+            options: { a: "Vrai", b: "Faux" },
+            reponse: "b",
+            explication: "Faux, la reproduction même d'un seul élément, s'il est l'élément dominant et distinctif de la marque, peut suffire à créer un risque de confusion et être qualifiée de contrefaçon.",
+            page: "42"
+        },
+        {
+            question: "La contrefaçon ne porte que sur des créations protégées par un titre de propriété industrielle ou par des droits d'auteur/voisins.",
+            options: { a: "Vrai", b: "Faux" },
+            reponse: "a",
+            explication: "La contrefaçon est par définition une atteinte à un droit de propriété intellectuelle existant. Sans droit protégé, il ne peut y avoir de contrefaçon (mais possiblement de la concurrence déloyale).",
+            page: "40, 42"
+        },
+        {
+            question: "Quelle est la différence entre la contrefaçon et la concurrence déloyale ?",
+            options: { a: "Il n'y a aucune différence", b: "La contrefaçon sanctionne une atteinte à un droit privatif (ex: brevet), la concurrence déloyale un manquement à la déontologie commerciale", c: "La contrefaçon ne concerne que les marques", d: "La concurrence déloyale n'est pas punie par la loi" },
+            reponse: "b",
+            explication: "L'action en contrefaçon sanctionne l'atteinte à un droit de PI, tandis que l'action en concurrence déloyale vise à sanctionner un manquement à la déontologie commerciale (dénigrement, parasitisme...).",
+            page: "41"
+        },
+        {
+            question: "La 'copie servile' d'un produit est une forme de contrefaçon.",
+            options: { a: "Vrai", b: "Faux" },
+            reponse: "a",
+            explication: "Le tableau des types de contrefaçon définit la contrefaçon servile comme la 'Reproduction à l'identique (produit ou signe distinctif)'.",
+            page: "42"
+        },
+        {
+            question: "Pour obtenir une saisie-contrefaçon, il faut d'abord saisir sur requête :",
+            options: { a: "Le commissariat de police", b: "Le ministère du Commerce", c: "Le Président du Tribunal de Grande Instance", d: "L'OAPI directement" },
+            reponse: "c",
+            explication: "Pour obtenir une saisie-contrefaçon, il faut saisir sur requête le Président du Tribunal de Grande Instance du lieu où la saisie doit être réalisée.",
+            page: "43"
+        }
+    ]
+},```
         
         // Vous pourrez ajouter 'M05', etc. ici
      
@@ -1682,6 +2556,7 @@ document.addEventListener('DOMContentLoaded', () => {
     // --- Initialisation au chargement de la page ---
     populateDropdown();
 });
+
 
 
 
